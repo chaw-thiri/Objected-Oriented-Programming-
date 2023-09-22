@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-void cout_int(int, int = 10);
+void cout_int(int, int = 10); # setting default parameter 
 int main() {
 	cout_int(100);
 	cout_int(100, 8);
