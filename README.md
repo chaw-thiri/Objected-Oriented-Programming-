@@ -25,5 +25,13 @@ Lab2 : Dynamic memory allocation
 [Ex3⭐: multiplication of matrics using one dimentional dynamic arrays](https://github.com/chaw-thiri/Objected-Oriented-Programming-/blob/fcbd8bca325c6d28ec11d8e64e8deec22979d0b9/Lab02ex3.cpp)
 
 
+Lab3 : Each exercise focuses on different concepts
+[Ex1 : Conditional Statement](https://github.com/chaw-thiri/Objected-Oriented-Programming-/blob/8c9728ef5e39a01a315addc8585636783df4d2ad/Lab03ex1.cpp)      
+[Ex2 : Function Overloading](https://github.com/chaw-thiri/Objected-Oriented-Programming-/blob/main/Lab03ex2.cpp)     
+[Ex3 : Default parameter](https://github.com/chaw-thiri/Objected-Oriented-Programming-/blob/main/Lab03ex3.cpp)     
+[Ex4 : Dynamic memory allocation](https://github.com/chaw-thiri/Objected-Oriented-Programming-/blob/b70773c86e70a9c5584d3db9be3f18da72c3c886/Lab03ex4.cpp)     
+[Ex5 : Area of the shape](https://github.com/chaw-thiri/Objected-Oriented-Programming-/blob/e783db8627f333a626268268961622625b6e91df/Lab03ex5.cpp)     
+
+
 
 > p.s. All of the solutions here are not guaranteed to be the most efficient in terms of time and space. Optimization of my codes is always welcomed.
