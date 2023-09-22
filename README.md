@@ -25,7 +25,7 @@ Lab2 : Dynamic memory allocation
 [Ex3⭐: multiplication of matrics using one dimentional dynamic arrays](https://github.com/chaw-thiri/Objected-Oriented-Programming-/blob/fcbd8bca325c6d28ec11d8e64e8deec22979d0b9/Lab02ex3.cpp)
 
 
-Lab3 : Each exercise focuses on different concepts
+Lab3 : Each exercise focuses on different concepts       
 [Ex1 : Conditional Statement](https://github.com/chaw-thiri/Objected-Oriented-Programming-/blob/8c9728ef5e39a01a315addc8585636783df4d2ad/Lab03ex1.cpp)      
 [Ex2 : Function Overloading](https://github.com/chaw-thiri/Objected-Oriented-Programming-/blob/main/Lab03ex2.cpp)     
 [Ex3 : Default parameter](https://github.com/chaw-thiri/Objected-Oriented-Programming-/blob/main/Lab03ex3.cpp)     
