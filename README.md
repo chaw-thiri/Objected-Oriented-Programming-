@@ -39,6 +39,6 @@ Lab 6 : Contructors and Destructors
 [Ex4 : Password manipulation](https://github.com/chaw-thiri/Objected-Oriented-Programming-/tree/main/Lab06ex4)    
 [Ex5 : Triangle class](https://github.com/chaw-thiri/Objected-Oriented-Programming-/tree/main/Lab06ex5)     
 
+        
 
-
-> p.s. All of the solutions here are not guaranteed to be the most efficient in terms of time and space. Optimization of my codes is always welcomed.
+> p.s. All of the solutions here are not guaranteed to be the most efficient in terms of time and space. Code optimizations are always welcomed.
