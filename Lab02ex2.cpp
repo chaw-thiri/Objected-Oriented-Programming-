@@ -50,7 +50,7 @@ void MatDisplay(int* mat, int row , int col) {
 	int size = row * col;
 	for (int i = 0; i < size; ++i) {
 		cout << *(mat + i) << " ";
-		if ((i+1) % col == 0) cout << "\n"; # ******
+		if ((i+1) % col == 0) cout << "\n"; // ******
 		
 		
 	}
