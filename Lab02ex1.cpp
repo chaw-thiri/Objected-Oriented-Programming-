@@ -37,7 +37,7 @@ cout << "Enter elements of the array: ";
 }
 void inputArray(int* buf, int size) {
 	for (int i = 0; i < size; ++i)
-		cin >> *(buf + i);
+		cin >> *(buf + i);  // cin >> buf[i];  same 
 
 }
 int searchIdx(int* buf, int size, int element) {
