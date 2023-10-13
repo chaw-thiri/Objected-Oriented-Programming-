@@ -49,9 +49,9 @@ void MatAdd(int* mat1, int* mat2, int* mat3, int row, int col) {
 void MatDisplay(int* mat, int row , int col) {
 	int size = row * col;
 	for (int i = 0; i < size; ++i) {
-		cout << *(mat + i);
-		if ((i+1) % 3 == 0) cout << "\n";
-		else cout << " ";
+		cout << *(mat + i) << " ";
+		if ((i+1) % col == 0) cout << "\n"; # ******
+		
 		
 	}
 
