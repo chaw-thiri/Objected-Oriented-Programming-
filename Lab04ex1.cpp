@@ -1,3 +1,4 @@
+// do not use boolean return value from ascending and decending functions
 #include <iostream>
 using namespace std;
 
