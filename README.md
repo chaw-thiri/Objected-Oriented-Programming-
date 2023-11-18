@@ -55,7 +55,7 @@ Lab 7 : this pointer and copy constructor
 
 
 
-Lab 10 : Classes, Inheritance and Virtual function      
+Lab 10 : Classes, Inheritance and Virtual function             
 [Ex1,2 & 3 : Modify the bank program by adding interest rates ](https://github.com/chaw-thiri/Objected-Oriented-Programming-/tree/main/Lab10Ex03)
         
 
