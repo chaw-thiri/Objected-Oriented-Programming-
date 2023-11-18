@@ -53,6 +53,10 @@ Lab 7 : this pointer and copy constructor
 [Ex2 : copy constructor (deep copy) ](https://github.com/chaw-thiri/Objected-Oriented-Programming-/blob/main/Lab07ex2.cpp)     
 [Ex3 ⭐: modify the Lab 4 (replace structure with class)](https://github.com/chaw-thiri/Objected-Oriented-Programming-/blob/main/Lab07ex3.cpp)
 
+
+
+Lab 10 : Classes, Inheritance and Virtual function
+[Ex1,2 & 3 : Modify the bank program by adding interest rates ](https://github.com/chaw-thiri/Objected-Oriented-Programming-/tree/main/Lab10Ex03)
         
 
 > p.s. All of the solutions here are not guaranteed to be the most efficient in terms of time and space. Code optimizations are always welcomed.
