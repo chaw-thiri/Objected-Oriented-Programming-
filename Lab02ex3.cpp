@@ -8,7 +8,7 @@ using namespace std;
 // however, i add necessary cmts to solve non-identical matrices as well.
 // 
 // IMPORTANT FACTS
-// Fact 1: To multipy two matricee, col1 == col2( e.g. M1 = 3 x 2, M2 = 2 x 3)
+// Fact 1: To multipy two matricee, col1 == row2( e.g. M1 = 3 x 2, M2 = 2 x 3)
 // Fact 2: resulting matrix size : MatMuli[row1][col2] : 3 x 3  
 
 
@@ -66,6 +66,8 @@ void MatDisplay(int* mat, int row , int col) {
 
 
 void MatMul(int* mat1, int* mat2, int* matMul, int row, int col) {
+	// final mat will have row1 , col2 
+	// so the first 2 loops are for allocation of the final matrix
 	for (int i = 0; i < row; ++i) { // row = row1
 		for (int j = 0; j < col; ++j) { // col = col2 , reference:  Fact 1 
 			int sum = 0;
@@ -73,7 +75,9 @@ void MatMul(int* mat1, int* mat2, int* matMul, int row, int col) {
 			// for (int k = 0; k < col OR rol; ++k)
 				sum += mat1[(i * col) + k] * mat2[(k * col) + j]; // mat1[x] is the same as *(mat1+x) ; review pointer lesson if confuse
 				// be careful : col in (i * col) is col1 , 
-				//				col in (k * col) is col2
+				//		col in (k * col) is col2
+				// mat1[(i * col) + k]: Accesses the element at row i and column k in the first matrix (mat1).
+				// mat2[(k * col) + j]: Accesses the element at row k and column j in the second matrix (mat2
 				
 
  
