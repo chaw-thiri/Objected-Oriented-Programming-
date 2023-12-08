@@ -7,10 +7,8 @@ This repository provides solutions for all the lab sessions in Object Oriented P
 PDF files : questions with testcases     
 CPP files : answers (and code explanation for the complex exercises)  
 ### Tips
-There are BIG 3 in C++, include them whenever you use OOP(classes)
-* copy constructor
-* destructor
-* overloaded assignment operator
+There are BIG 3 in C++, include them whenever you use OOP(classes) : **copy constructor , destructor, overloaded assignment operator**
+* Use a copy constructor whenever there is dynamic data in your code.
 
 ### How to use💡
 Each lab focuses on specific topic, however complexity of each lab grow in ascending order.        
