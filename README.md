@@ -6,6 +6,11 @@ Languages : C++
 This repository provides solutions for all the lab sessions in Object Oriented Programming Course of INHA university's Integrated Systems Engineering Major.    
 PDF files : questions with testcases     
 CPP files : answers (and code explanation for the complex exercises)  
+### Tips
+There are BIG 3 in C++, include them whenever you use OOP(classes)
+* copy constructor
+* destructor
+* overloaded assignment operator
 
 ### How to use💡
 Each lab focuses on specific topic, however complexity of each lab grow in ascending order.        
